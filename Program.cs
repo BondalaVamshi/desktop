@@ -11,8 +11,10 @@ namespace Start
         static void Main(string[] args)
         {
             Console.WriteLine("this is hello");
-            Console.WriteLine("this is hello");
+         
+   Console.WriteLine("this is hello");
 
+            Console.WriteLine("this is hello");
         }
     }
 }
